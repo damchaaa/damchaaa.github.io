@@ -1,0 +1,1 @@
+.navbar__inner{display:flex;flex-direction:column}.navbar__card{display:flex;align-items:center;margin-top:15px;margin-bottom:15px}.navbar__img{width:50%}.navbar__card--title{width:50%;display:flex;justify-content:center;color:#3e3e3e}.link{text-decoration:none}.link:visited{color:#3e3e3e}@media (max-width:991px){.navbar__card{flex-direction:column;margin-top:30px}}
